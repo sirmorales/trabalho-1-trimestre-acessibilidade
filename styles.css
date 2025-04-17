@@ -2,13 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #c4121b;
+    --laranja-claro: #1612fdbe;
 }
 
 body {
     font-size: 1rem;
     font-family: 'Fadilha';
-    background-color: #4c49ebbe;
+    background-color: #1612fdbe;
 }
 
 header {
