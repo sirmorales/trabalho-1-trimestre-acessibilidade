@@ -8,7 +8,7 @@
 body {
     font-size: 1rem;
     font-family: 'Fadilha';
-    background-color: #ecececbe;
+    background-color: #1612fdbe;
 }
 
 header {
@@ -119,7 +119,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #c4121b;
+    background-color: #1612fdbe;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -130,7 +130,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #c4121b;
+    background-color: #1612fdbe;
     border: none;
     font-weight: bold;
 }
