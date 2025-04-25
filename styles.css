@@ -8,11 +8,11 @@
 body {
     font-size: 1rem;
     font-family: 'Fadilha';
-    background-color: #1612fdbe;
+    background-color: #00000000;
 }
 
 header {
-    background-color: #1612fdbe;
+    background-color: #ecececbe;
 }
 
 
@@ -22,13 +22,13 @@ section {
 
 
 .nav-link {
-    color: #1612fdbe;
+    color: #c4121b;
     font-weight: 600;
 }
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/campo.jpeg');
+    background-image: url('img/Fachada\ Renner\ -\ Shopping\ Bela\ Vista.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -119,7 +119,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #1612fdbe;
+    background-color: #c4121b;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -130,7 +130,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #1612fdbe;
+    background-color: #c4121b;
     border: none;
     font-weight: bold;
 }
